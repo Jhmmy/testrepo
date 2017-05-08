@@ -1,3 +1,0 @@
-# testrepo
-
-This is Mitsos!
